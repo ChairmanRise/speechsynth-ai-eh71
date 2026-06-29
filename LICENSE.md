@@ -1,4 +1,4 @@
-# 
+# Officiel SpeechSynth package. Téléchargez et installez avec téléchargement sécurisé et open source — rapide, sécurisé et facile à utiliser.
 
 
 
